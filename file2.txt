@@ -1,2 +1,9 @@
 this is line one 
 this is line two 
+<<<<<<< Updated upstream
+this is line seven
+this is line eight
+=======
+this is line five
+this is line six
+>>>>>>> Stashed changes
