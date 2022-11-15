@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file has been created by developer
+=======
+this file has been security 
+>>>>>>> sec
